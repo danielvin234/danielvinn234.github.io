@@ -6,7 +6,7 @@
 		<article>
 
 
-			<img src="img/escola.png"alt="
+			<img src="img/escola.png"
 		</article>
 	
 
