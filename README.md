@@ -6,7 +6,7 @@
 		<article>
 
 
-			<img src="img/escola.png"alt="some text" width=300 height=200>
+			<img src="img/escola.png"alt="
 		</article>
 	
 
